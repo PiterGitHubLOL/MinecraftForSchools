@@ -2,7 +2,15 @@
 
 # Hi this is a database of eaglercraft mostly for my class mates!
 
-https://eaglercraft.com/ - Eagler craft
+# Best eaglercraft forks
+
+https://minecraft-for-school-k1bi.vercel.app - My eaglercraft one of the best
+
+https://resent4-0.vercel.app/ - A custom client for eaglercraft
+
+https://eaglercraft.com/ - Eagler craft original
+
+# Worse versions of eaglercraft forks
 
 https://minecraftforfreex.com/eaglercraft/ - Eagler craft
 
@@ -15,8 +23,6 @@ https://sd592g.github.io/zj684od4lfg/ - Eagler craft
 https://eaglercraft-.glitch.me/ - Eagler craft
 
 https://eaglercraft.org/ - Eagler craft
-
-https://resent4-0.vercel.app/ - Resent Client Eagler craft
 
 https://www.miniplay.com/game/eaglercraft-minecraft-online - 💩
 
