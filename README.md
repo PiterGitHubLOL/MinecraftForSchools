@@ -94,7 +94,7 @@ wss://poison.rocks
 
 wss://zentic.cc
 
-Best servers
+# Best servers
 
 ArchMC - wss://mc.arch.lol
 
