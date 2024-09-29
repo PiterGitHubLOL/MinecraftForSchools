@@ -1,6 +1,6 @@
 # MinecraftForSchools
 
-Hi this is a database of eaglercraft mostly for my class mates!
+# Hi this is a database of eaglercraft mostly for my class mates!
 
 https://eaglercraft.com/ - Eagler craft
 
@@ -24,7 +24,7 @@ https://eaglercraft000.pages.dev/ - Eagler craft
 
 https://ubg100.github.io/eaglercraft.html - Eagler craft
 
-Rest
+# Rest
 
 Eaglercraft 1.8.8
 
@@ -52,7 +52,7 @@ Eaglercraft Alpha 1.2.6
 
 Eaglercraft Indev
 
-Servers!
+# Servers!
 
 wss://mc.arch.lol
 
